@@ -1,2 +1,3 @@
-const Yname="manuja"
-console.log(Yname)
+const os= require ("os");
+
+console.log(os.platform());
