@@ -7,4 +7,12 @@ const math=(number1, number2,number3,number4) => {
         }
     return a;
 };
+
+const abc= () => {}
+const aaa= () => {}
+const ddd= () => {}
+const fff = () => {}
+
+
+
 export default math;
