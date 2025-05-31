@@ -7,4 +7,4 @@ const math=(number1, number2,number3,number4) => {
         }
     return a;
 };
-console.log(math(2,3));
+console.log(math(2,3,5,5));
