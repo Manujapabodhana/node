@@ -12,14 +12,9 @@ const abc= () => {}
 const aaa= () => {}
 const ddd= () => {}
 const fff= () => {}
+const main = {
+    abc, aaa, ddd, fff
+}
 
-
-
-
-
-
-
-
-
-
-export default math;
+export default main;
+export { math };
