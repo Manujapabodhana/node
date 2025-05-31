@@ -1,0 +1,14 @@
+{
+  "name": "yt-tutorial",
+  "version": "1.0.0",
+  "description": "A simple Node.js tutorial project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
